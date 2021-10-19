@@ -1,16 +1,67 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=imvctrhugo&color=006bed)
 
-<!--
-**imvctrhugo/imvctrhugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<h3> 👦🏻 &nbsp;About Me </h3>
 
-Here are some ideas to get you started:
+- :earth_americas: &nbsp; **São Paulo, Brazil**
+- 🎓 &nbsp; **Class of 2024 - Computer Engineering @ <a href="https://www.fiap.com.br/graduacao/bacharelado/engenharia-de-computacao/">FIAP</a>**
+- 💼 &nbsp; **Laravel Full Stack Developer @ <a href="https://www.keepsimple.com.br/">KEEP SIMPLE</a>**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> :rocket: &nbsp;My Skills </h3>
+
+**Applications and Data**
+
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery) 
+  
+  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+  
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B)
+  ![Pyton](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+
+**Utilities**
+
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia&logoColor=blue)
+  ![Office](https://img.shields.io/badge/-Microsoft%20Office-333333?style=flat&logo=microsoft-office&logoColor=orange)
+  
+**Databases**
+
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)  
+
+**DevOps**
+
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+  ![Gitlab](https://img.shields.io/badge/-Gitlab-333333?style=flat&logo=gitlab)
+
+**Development Tools**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Trello](https://img.shields.io/badge/-Bitrix-333333?style=flat&logo=trello)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+
+**Agile Culture**
+
+  ![Scrum](https://img.shields.io/badge/-Scrum-333333?style=flat)
+  ![Kanban](https://img.shields.io/badge/-Kanban-333333?style=flat)
+
+<!-- <br/>
+
+<a href="https://github.com/imvctrhugo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imvctrhugo&theme=dracula&show_icons=true" />
+</a>
+
+<br/> -->
+
+<h3> 📢 &nbsp;HMU: </h3> 
+
+[![Linkedin: Victor hugo](https://img.shields.io/badge/-Victor%20Hugo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/xaviervictor/)
+[![Gmail Badge](https://img.shields.io/badge/-vctrhugo3011@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:vctrhugo3011@gmail.com)
+[![GitHub imvctrhugo]( https://img.shields.io/github/followers/imvctrhugo?label=follow&style=social)](https://github.com/imvctrhugo)
+</p> 
