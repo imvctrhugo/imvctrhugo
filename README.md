@@ -1,4 +1,5 @@
-![](https://komarev.com/ghpvc/?username=imvctrhugo&color=006bed)
+![](https://komarev.com/ghpvc/?username=imvctrhugo&color=006bed)<br/>
+[![wakatime](https://wakatime.com/badge/user/9dc82780-e2d3-4df5-8d64-d37c31f3bd3d.svg)](https://wakatime.com/@9dc82780-e2d3-4df5-8d64-d37c31f3bd3d)
 
 <p align="center">
 <h3> 👦🏻 &nbsp;About Me </h3>
