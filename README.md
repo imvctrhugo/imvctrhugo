@@ -5,8 +5,8 @@
 <h3> 👦🏻 &nbsp;About Me </h3>
 
 - :earth_americas: &nbsp; **São Paulo, Brazil**
-- 🎓 &nbsp; **Class of 2024 - Computer Engineering @ <a href="https://www.fiap.com.br/graduacao/bacharelado/engenharia-de-computacao/">FIAP</a>**
-- 💼 &nbsp; **Laravel Full Stack Developer @ <a href="https://www.keepsimple.com.br/">KEEP SIMPLE</a>**
+- 🎓 &nbsp; **Computer Engineering Student @ <a href="https://www.fiap.com.br/graduacao/bacharelado/engenharia-de-computacao/">FIAP</a>** *(2020-2024)*
+- 💼 &nbsp; **Laravel Full Stack Developer @ <a href="https://www.keepsimple.com.br/">KEEP SIMPLE</a>** *(Sep/2021-Present)*
 
 <h3> :rocket: &nbsp;My Skills </h3>
 
