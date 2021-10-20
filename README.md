@@ -27,9 +27,11 @@
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B)
   ![Pyton](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
+  ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino)
 
 **Utilities**
 
+  ![DBeaver](https://img.shields.io/badge/-DBeaver-333333?style=flat&logo=dbeaver)
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia&logoColor=blue)
   ![Office](https://img.shields.io/badge/-Microsoft%20Office-333333?style=flat&logo=microsoft-office&logoColor=orange)
   
