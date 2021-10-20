@@ -20,10 +20,13 @@
   ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery) 
   
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![styled--components](https://img.shields.io/badge/-styled--components-333333?style=flat&logo=styled-components)
   
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B)
   ![Pyton](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
 
 **Utilities**
 
