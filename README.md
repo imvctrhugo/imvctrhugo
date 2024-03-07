@@ -8,7 +8,7 @@
 - 🎓 &nbsp; **Computer Engineering Student @ <a href="https://www.fiap.com.br/graduacao/bacharelado/engenharia-de-computacao/">FIAP</a>** *(2020-2024)*
 - 💼 &nbsp; **PHP Laravel - Intern FullStack Developer @ <a href="https://www.keepsimple.com.br/">KEEP SIMPLE</a>** *(Sep/2021-Mar/2022)*
 - 💼 &nbsp; **NestJS - Jr. Software Developer @ <a href="https://www.linkedin.com/company/dasa/">DASA</a>** *(Apr/2022-Jan/2023)*
-- 💼 &nbsp; **Software Developer @ <a href="https://www.linkedin.com/company/cognizant/">COGNIZANT</a>** *(Feb/2023-Present)*
+- 💼 &nbsp; **DataOps Engineer @ <a href="https://www.linkedin.com/company/f1rstdigitalservices/">Santander</a>** *(Feb/2023-Present)*
 
 <h3> :rocket: &nbsp;My Skills </h3>
 
